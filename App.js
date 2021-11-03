@@ -1,6 +1,4 @@
 import './App.css';
-import Navbar from './navbar';
-import Home from './home';
 import { Component, useState,useEffect } from 'react';
 import axios from 'axios'
 
